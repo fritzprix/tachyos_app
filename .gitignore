@@ -1,0 +1,14 @@
+
+*.map
+
+*.hex
+
+*.bin
+
+*.o
+
+*.xml
+
+.project
+
+.cproject
